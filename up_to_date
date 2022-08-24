@@ -1,4 +1,1 @@
-vim README.md
-git add 0*01-git/README.md
-git commit -m 'thibaut7'
-git push 
+git add
